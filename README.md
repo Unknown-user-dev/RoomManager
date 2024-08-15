@@ -8,8 +8,10 @@
 - [x] Fatest
 - [x] No bug
 - [x] Send embed to ask to moove
-- [X] Play music to wait 
+- [X] Play music to wait
 
+### Main template & Boilerplate
+- ![Source Codes of the Boilerplate & Template of the bot](https://github.com/NamVr/DiscordBot-Template)
   
 ### ⚙️ How to use
 1. Download the SRC
