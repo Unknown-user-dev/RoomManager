@@ -1,0 +1,53 @@
+{
+	"name": "discordbot-template",
+	"version": "3.3.2",
+	"description": "A modified template based on discordjs.guide to create your own discord-js based bot!",
+	"funding": "https://ko-fi.com/namanvrati",
+	"types": "./typings.d.ts",
+	"main": "bot.js",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NamVr/DiscordBot-Template.git"
+	},
+	"keywords": [
+		"discord-js"
+	],
+	"author": {
+		"name": "Naman Vrati & unknownuser.js",
+		"url": "",
+		"email": ""
+	},
+	"contributors": [
+		{
+			"name": "Krish Garg",
+			"url": "https://github.com/KrishGarg"
+		},
+		{
+			"name": "Thomas Fournier",
+			"email": "thomas@artivain.com",
+			"url": "https://github.com/GoudronViande24"
+		},
+		{
+			"name": "unknownuser.js",
+			"url": "https://github.com/Unknown-user-dev"
+		}
+	],
+
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://github.com/NamVr/DiscordBot-Template/issues"
+	},
+	"homepage": "https://github.com/NamVr/DiscordBot-Template#readme",
+	"dependencies": {
+		"@discordjs/voice": "^0.17.0",
+		"@distube/ytdl-core": "^4.14.4",
+		"discord-api-types": "^0.37.43",
+		"discord.js": "^14.11.0",
+		"gtts": "^0.2.1",
+		"sqlite3": "^5.1.7",
+		"ytdl-core": "^4.11.5"
+	}
+}
