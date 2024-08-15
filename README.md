@@ -5,7 +5,7 @@
 ## 📝 Features
 
 ### Bot
-- [x] Fatest
+- [x] Fastest
 - [x] No bug
 - [x] Send embed to ask to moove
 - [X] Play music to wait
