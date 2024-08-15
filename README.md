@@ -11,7 +11,7 @@
 - [X] Play music to wait
 
 ### Main template & Boilerplate
-- ![Source Codes of the Boilerplate & Template of the bot](https://github.com/NamVr/DiscordBot-Template)
+- [Source Codes of the Boilerplate & Template of the bot](https://github.com/NamVr/DiscordBot-Template)
   
 ### ⚙️ How to use
 1. Download the SRC
